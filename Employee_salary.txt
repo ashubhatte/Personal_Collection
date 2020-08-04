@@ -1,0 +1,3 @@
+10000 for associate
+50000 for managers
+100000000000 for CEO
